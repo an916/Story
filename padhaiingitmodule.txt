@@ -1,0 +1,8 @@
+first intialize git in the folder by typing: git init
+then create files which needed to be commited then add them to staging area means
+make them ready to be commited type:git add filename.extension now we can check its
+status if it is staged to be commited or not by typing: git status
+then commit that file by typing:git commit -m "any message"
+in above commit -m is a way to show messages so that we understand what was 
+changed
+we can type git log to check last commits that are made
